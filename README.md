@@ -17,4 +17,3 @@ HTML | CSS | JavaScript | React | Python | Java | C++
 ## 設計與創意工具
 Figma | Photoshop | Illustrator | Blender | Unity | Game Maker
 
-## 精選項目
