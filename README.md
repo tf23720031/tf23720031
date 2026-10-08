@@ -1,5 +1,8 @@
-
 <div align="center">
+  <img src="./ciel-banner.png" alt="Ciel GitHub Banner" width="100%" />
+</div>
+<div align="center">
+  
 # Hi, I'm MinJia.
 
 ### DESIGN × TECHNOLOGY × CULTURE
