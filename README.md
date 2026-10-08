@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ciel-banner.png" alt="Ciel GitHub Banner" width="100%" />
+  <img src="./MINJIA-banner.png"  width="100%" />
 </div>
 <div align="center">
   
